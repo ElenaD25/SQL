@@ -1,4 +1,4 @@
-## Delete records based on the id provided
+## Dynamically delete the record based on the information provided 
 
 This stored procedure helps you to easily delete a record from a table without writing again and again the Delete statement. The only info that have to be provided are schema and table name, followed by the column name and the value you want to delete.<br />
 This was used in a banking application.
